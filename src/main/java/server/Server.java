@@ -1,6 +1,5 @@
-package server;
+package main.java.server;
 
-import jdk.internal.util.xml.impl.Input;
 
 import java.io.*;
 import java.net.ServerSocket;
